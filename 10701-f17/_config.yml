@@ -1,0 +1,10 @@
+# site settings
+title: 10-701 Fall 2017
+author: Sarah Schultz
+description: "10-701 Fall 2017 Homepage"
+
+# build settings
+markdown: kramdown
+#permalink: pretty
+exclude: ['README.md', 'jekyll-ignore', '.DS_Store']
+timezone: US/Eastern

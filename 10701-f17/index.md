@@ -24,6 +24,7 @@ anyone with a strong numerate background can catch up and fully participate.
 ## Course info:
 
 * Time: Monday and Wednesday, 3:00-4:20 pm (WEH 7500)
+* Recitation: Monday and Tuesday, 6:00-7:00 pm (Rashid, unless otherwise noted)
 * Instructors: Nina Balcan and Ziv Bar-Joseph
 * Assistant Lecturers: Sarah Schultz
 * Teaching Assistants: Yujie Xu, Easwaran Ramamurthy, Chieh	Lin, Ellen	Vitercik, Logan Brooks

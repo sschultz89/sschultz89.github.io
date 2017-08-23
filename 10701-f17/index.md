@@ -1,5 +1,6 @@
 ---
 id: home
+layout: index
 toc: false
 ---
 

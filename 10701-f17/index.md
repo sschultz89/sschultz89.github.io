@@ -9,7 +9,7 @@ toc: false
 
 * Time: Monday and Wednesday, 3:00-4:20 pm (WEH 7500)
 * Instructors: Nina Balcan and Ziv Bar-Joseph
-* Assistant Lecturers: [Sarah Schultz] sschultz@cs.cmu.edu
+* Assistant Lecturers: Sarah Schultz
 * Teaching Assistants: Yujie Xu, Easwaran Ramamurthy, Chieh	Lin, Ellen	Vitercik, Logan Brooks
 * Course Assistants: Guoquan Zhao, Akash Ramachandran, Matthew Oresky
 
